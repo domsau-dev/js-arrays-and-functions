@@ -1,4 +1,4 @@
-#Javascript Masyvai ir Funkcijos
+# Javascript Masyvai ir Funkcijos
 
 1. Sukurkite funkciją, kurią iškvietus masyvą galima papildyti norimu elementu. Informacija paimama iš input laukelio. Funkcija iškviečiama paspaudus mygtuką.
 
